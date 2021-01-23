@@ -4,6 +4,6 @@ description: Atmospheric Conditions and Anomalies
 image: "../gnss.png"
 date: 2018-10-22
 tags: []
-draft: false
+draft: true
 ---
 ![Resume](/img/resume.jpg)
